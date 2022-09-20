@@ -1,0 +1,10 @@
+.logo {
+    background-image: url(../../images/logo.png);
+    background-repeat: no-repeat;
+    width: 80px;
+    background-size: contain;
+    aspect-ratio: 1.5/1;
+    display: grid;
+    place-content: center;
+}
+
